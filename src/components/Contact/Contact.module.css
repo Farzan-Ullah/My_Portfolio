@@ -76,4 +76,7 @@
   .link a {
     display: none;
   }
+  .linkedin img{
+    width: 87%;
+  }
 }

@@ -105,16 +105,18 @@
   }
 
   .title {
-    font-size: 40px;
+    font-size: 36px;
+    margin-left: -50px;
   }
 
   .description {
-    font-size: 22px;
+    font-size: 20px;
+    width: 90vw;
   }
 
   .contactBtn {
-    font-size: 22px;
-    padding: 10px 15px;
+    font-size: 20px;
+    padding: 8px 20px;
   }
 
   .content {
@@ -123,6 +125,6 @@
   }
 
   .heroImg {
-    width: 80%;
+    width: 60%;
   }
 }
