@@ -1,9 +1,5 @@
 [
   {
-    "title": "Javascript",
-    "imageSrc": "skills/js.png"
-  },
-  {
     "title": "ReactJs",
     "imageSrc": "skills/react.png"
   },
@@ -20,12 +16,24 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "REST API",
+    "imageSrc": "skills/rest.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
   {
     "title": "CSS",
     "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "Figma",

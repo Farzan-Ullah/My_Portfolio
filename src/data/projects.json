@@ -3,32 +3,70 @@
     "title": "Realtime-Text-Editor",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["ReactJs", "CSS", "NodeJs", "ExpressJs", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["ReactJs", "CSS", "ExpressJs", "Socket.io"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Realtime-Chat-App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "CSS", "ExpressJs", "Chatengine.io"],
+    "demo": "https://www.example.com"
   },
   {
     "title": "Rock-Paper-Scissors Game",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.example.com"
   },
   {
-    "title": "Web Design Template Application",
+    "title": "X-O-Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "CSS", "javascript"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Easy-Pocket-Notes_App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "CSS", "Javascript"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "CSS", "Firebase"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Web Design Template",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "Tailwind", "javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.example.com"
   },
   {
     "title": "Multiple Page Web App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "CSS", "ExpressJs", "NodeJs", "MongoDB"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Disney Plus Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "Tailwind", "CSS", "javascript"],
+    "demo": "https://www.example.com"
   }
 ]

@@ -1,11 +1,12 @@
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
+import { Certificates } from "./components/Certificates/Certificates";
 import { Contact } from "./components/Contact/Contact";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
-import {Skills} from "./components/Skills/Skills";
+import { Skills } from "./components/Skills/Skills";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Experience />
       <Skills />
+      <Certificates />
       <Projects />
       <Contact />
     </div>
