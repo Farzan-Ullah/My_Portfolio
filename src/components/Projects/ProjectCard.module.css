@@ -78,7 +78,7 @@
   .container {
     /* max-width: 85vw; */
     width: 250px;
-    max-height: 55vh;
+    max-height: 59vh;
   }
 
   .title,
@@ -88,7 +88,7 @@
   }
 }
 
-@media screen and (min-width: 600px) and (max-width: 1024px) {
+/* @media screen and (min-width: 600px) and (max-width: 1024px) {
   .container {
     width: 70vw;
     max-height: 80vh;
@@ -99,4 +99,4 @@
   .link {
     font-size: 22px;
   }
-}
+} */

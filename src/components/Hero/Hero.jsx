@@ -11,11 +11,10 @@ export const Hero = () => {
         <p className={styles.description}>
           {/* I'm a Software Developer with 3 years of experience using React and
           NodeJS. Reach out if you'd like to learn more! */}
-          Software Engineer dedicated to improving skills through hands-on
-          learning and development work. Proficient in mobile and desktop
-          development environments. Using <b>HTML5, JavaScript, ReactJs </b> and
-          other programming languages to produce clean code. Well-organized and
-          collaborative team player with strong communication and analytical
+          Frontend Developer dedicated to improving skills through hands-on
+          learning and development work. Using <b>ReactJs, HTML5, JavaScrip </b>{" "}
+          and other programming languages to produce clean code. Well-organized
+          and collaborative team player with strong communication and analytical
           abilities.
         </p>
         <a href="mailto:farzanullah07@gmail.com" className={styles.contactBtn}>
