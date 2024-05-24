@@ -17,9 +17,21 @@ export const Hero = () => {
           produce clean code. Well-organized and collaborative team player with
           strong communication and analytical abilities.
         </p>
-        <a href="mailto:farzanullah07@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttonGroup}>
+          <a
+            href="mailto:farzanullah07@gmail.com"
+            className={styles.contactBtn}
+          >
+            Contact Me
+          </a>
+          <a
+            href={getImageUrl("resume/FarzanUllahResume.pdf")}
+            download="FarzanUllahResume.pdf"
+            className={styles.resumeBtn}
+          >
+            Download Resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
