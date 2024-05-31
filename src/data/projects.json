@@ -7,13 +7,6 @@
     "demo": "https://code-editor-app.onrender.com"
   },
   {
-    "title": "Realtime-Chat-App",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["ReactJs", "CSS", "ExpressJs", "Chatengine.io"],
-    "demo": "https://chat-app-002.onrender.com"
-  },
-  {
     "title": "Rock-Paper-Scissors Game",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
