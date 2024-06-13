@@ -1,64 +1,61 @@
 [
   {
+    "title": "Quiz-Builder-App",
+    "imageSrc": "projects/project.png",
+    "skills": ["ReactJs", "CSS", "NodeJs", "ExpressJs", "MongoDB"],
+    "demo": "https://quizzie-web-app.netlify.app/"
+  },
+  {
     "title": "Realtime-Text-Editor",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS", "ExpressJs", "Socket.io"],
     "demo": "https://code-editor-app.onrender.com"
   },
   {
     "title": "Rock-Paper-Scissors Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://farzan-ullah.github.io/rock-paper-scissors-game/"
   },
   {
     "title": "X-O-Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS", "javascript"],
     "demo": "https://x-o-react-game.netlify.app/"
   },
   {
     "title": "Easy-Pocket-Notes_App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS", "Javascript"],
     "demo": "https://easy-pocket-notes.netlify.app/"
   },
   {
     "title": "Expense Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS", "Firebase"],
     "demo": "https://expense-tracker-05-2657a.web.app/"
   },
   {
     "title": "Web Design Template",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "Tailwind", "javascript"],
     "demo": "https://my-web-design-tailwind.vercel.app/"
   },
   {
     "title": "Multiple Page Web App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS"],
     "demo": "https://brunel003.netlify.app/"
   },
   {
     "title": "E-Commerce Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "CSS", "ExpressJs", "NodeJs", "MongoDB"],
     "demo": "https://my-f-mart-web.onrender.com"
   },
   {
     "title": "Disney Plus Clone",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJs", "Tailwind", "CSS", "javascript"],
     "demo": "https://disny-plus.netlify.app/"
   }
