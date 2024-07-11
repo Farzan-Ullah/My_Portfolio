@@ -6,6 +6,18 @@
     "demo": "https://quizzie-web-app.netlify.app/"
   },
   {
+    "title": "project-Management-App",
+    "imageSrc": "projects/project.png",
+    "skills": ["ReactJs", "CSS", "NodeJs", "ExpressJs", "MongoDB"],
+    "demo": "https://pro-manage-app.netlify.app/"
+  },
+  {
+    "title": "Twitter(X)-Clone",
+    "imageSrc": "projects/project.png",
+    "skills": ["ReactJs", "Tailwind CSS", "ExpressJs", "MongoDB"],
+    "demo": "https://x-clone-h081.onrender.com/"
+  },
+  {
     "title": "Realtime-Text-Editor",
     "imageSrc": "projects/project.png",
     "skills": ["ReactJs", "CSS", "ExpressJs", "Socket.io"],
