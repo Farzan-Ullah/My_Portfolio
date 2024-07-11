@@ -25,7 +25,9 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href={getImageUrl("resume/Farzan_Ullah_Resume.pdf")}
+            href={getImageUrl(
+              "resume/Farzan Ullah - Software Developer - Resume_1_1.pdf"
+            )}
             download="Farzan_Ullah_Resume.pdf"
             className={styles.resumeBtn}
           >
