@@ -25,7 +25,12 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        <a
+          href={demo}
+          className={styles.link}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Demo
         </a>
       </div>
