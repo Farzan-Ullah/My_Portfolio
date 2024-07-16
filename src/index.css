@@ -8,3 +8,30 @@
 html {
   scroll-behavior: smooth;
 }
+
+*::-webkit-scrollbar {
+  width: 12px;
+  /* Width of the scrollbar */
+}
+
+*::-webkit-scrollbar-track {
+  background: #333;
+  /* Track color */
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #555;
+  /* Scrollbar thumb color */
+  border-radius: 6px;
+  /* Roundness of the scrollbar thumb */
+  border: 3px solid #333;
+  /* Space around the thumb */
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  /* Make the scrollbar thinner */
+  scrollbar-color: #555 #333;
+  /* Thumb color and track color */
+}
